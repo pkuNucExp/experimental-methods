@@ -4,7 +4,7 @@
 
 ## 课程内容补充及演示（随时更新）
 1. Interaction of Radiation with matter
-  * [望远镜法进行带电粒子粒子鉴别][/telescope PID.ipynb]
+  * [望远镜法进行带电粒子粒子鉴别](telescope PID.ipynb)
   
 
 ## contact me
