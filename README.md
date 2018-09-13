@@ -10,7 +10,3 @@
   * [coursework 1.2 模拟望远镜法带电粒子鉴别](https://nbviewer.jupyter.org/github/pkunucexp/experimental-methods/blob/master/coursework%201.2%20telescope.ipynb)
   
 
-## contact me
-- email：yuanfangsee@pku.edu.cn
-- phone: 18511281625
-- wechat: mission-young
