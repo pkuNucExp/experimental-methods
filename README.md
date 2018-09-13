@@ -4,8 +4,6 @@
 
 ## 课程内容补充及演示（随时更新）
 1. Interaction of Radiation with matter
-  * [望远镜法进行带电粒子粒子鉴别](  * 利用实际实验数据或模拟代码展示课程相关内容。可提供实验数据，请联系助教。
-
   * [望远镜法带电粒子鉴别](https://nbviewer.jupyter.org/github/pkunucexp/experimental-methods/blob/master/telescope%20PID.ipynb)
   * [E-loss计算方法](https://nbviewer.jupyter.org/github/pkunucexp/experimental-methods/blob/master/eloss%20calculation.ipynb)
   * [coursework 1.1 计算Bragg curve](https://nbviewer.jupyter.org/github/pkunucexp/experimental-methods/blob/master/coursework%201.1%20bragg%20curve.ipynb)
