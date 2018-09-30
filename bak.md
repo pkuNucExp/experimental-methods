@@ -62,4 +62,4 @@
   * [随机事件事件间隔分布](https://nbviewer.jupyter.org/github/PkuNucExp/experimental-methods/blob/master/chapt2/ramdom%20timings.ipynb)
   * [各种几率分布与中心极限定理](https://nbviewer.jupyter.org/github/PkuNucExp/experimental-methods/blob/master/chapt2/centerlimit.ipynb)
   * Reference
-   * [Waiting-Line Models.pdf] applications of distribution of time intervals.
+   * [Waiting-Line Models.pdf]() applications of distribution of time intervals.
