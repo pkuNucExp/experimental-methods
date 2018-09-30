@@ -22,13 +22,15 @@
  * 请按照下面链接提前学习ROOT相关知识，ROOT内容将在第一章结束后开始。
 
 === ROOT Lecture ===
-    * [ROOT](http://root.cern.ch)
-    * [ROOT_Day1](http://hadron.physics.fsu.edu/~skpark/document/ROOT/root_beginers/ROOT_for_beginners_Day1.pdf)
-    * [ROOT_Day1](http://hadron.physics.fsu.edu/~skpark/document/ROOT/root_beginers/ROOT_for_beginners_Day2.pdf)
-    * [ROOT_Day1](http://hadron.physics.fsu.edu/~skpark/document/ROOT/root_beginers/ROOT_for_beginners_Day3.pdf)
-    * [ROOT_Day1](http://hadron.physics.fsu.edu/~skpark/document/ROOT/root_beginers/ROOT_for_beginners_Day4.pdf)
-    * [ROOT_Day1](http://hadron.physics.fsu.edu/~skpark/document/ROOT/root_beginers/ROOT_for_beginners_Day5.pdf)
-    * [ROOT Primer](https://d35c7d8c.web.cern.ch/sites/d35c7d8c.web.cern.ch/files/ROOT5Primer.pdf)
+
+ * [ROOT](http://root.cern.ch)
+ * [ROOT_Day1](http://hadron.physics.fsu.edu/~skpark/document/ROOT/root_beginers/ROOT_for_beginners_Day1.pdf)
+ * [ROOT_Day1](http://hadron.physics.fsu.edu/~skpark/document/ROOT/root_beginers/ROOT_for_beginners_Day2.pdf)
+ * [ROOT_Day1](http://hadron.physics.fsu.edu/~skpark/document/ROOT/root_beginers/ROOT_for_beginners_Day3.pdf)
+ * [ROOT_Day1](http://hadron.physics.fsu.edu/~skpark/document/ROOT/root_beginers/ROOT_for_beginners_Day4.pdf)
+ * [ROOT_Day1](http://hadron.physics.fsu.edu/~skpark/document/ROOT/root_beginers/ROOT_for_beginners_Day5.pdf)
+ * [ROOT Primer](https://d35c7d8c.web.cern.ch/sites/d35c7d8c.web.cern.ch/files/ROOT5Primer.pdf)
+    
 ----
 == Coursework ==
  * 作业要求
