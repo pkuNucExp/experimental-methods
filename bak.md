@@ -14,9 +14,9 @@
 
 
 == 参考书 ==
- * [[https://link.springer.com/book/10.1007%2F978-3-642-57920-2 | Techniques for Nuclear and Particle Physics Experiments]] Springer Link, 可下载
- * [[https://www.amazon.com/dp/0470131489/ref=rdr_ext_tmb| Radiation detection and measurement 4th edition]] Amazon
- * [[https://book.douban.com/subject/4322141/|原子核物理实验方法 第三版]] douban 
+ * [Techniques for Nuclear and Particle Physics Experiments](https://link.springer.com/book/10.1007%2F978-3-642-57920-2)
+ * [Radiation detection and measurement 4th edition](https://www.amazon.com/dp/0470131489/ref=rdr_ext_tmb)
+ * [原子核物理实验方法 第三版](https://book.douban.com/subject/4322141)
 
 ==  通知 ==
  * 请按照下面链接提前学习ROOT相关知识，ROOT内容将在第一章结束后开始。
