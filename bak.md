@@ -38,11 +38,11 @@
   3. 经助教批改后，根据批改意见进行修改，可多次提交。成绩以最后一次提交结果评判。
  * 第一章
   * '''做作业前先学习下面链接中的[E-loss计算方法]'''
-   *   [[https://nbviewer.jupyter.org/github/pkunucexp/experimental-methods/blob/master/chapt1/elosscalc/eloss%20calculation.ipynb|E-loss计算方法]]   作业1.1和1.2中能量损失的计算方法
-  * [[https://nbviewer.jupyter.org/github/pkunucexp/experimental-methods/blob/master/chapt1/coursework1.1/coursework%201.1%20bragg%20curve.ipynb| 1.1 计算Bragg curve]]
-  *  [[https://nbviewer.jupyter.org/github/pkunucexp/experimental-methods/blob/master/chapt1/coursework1.2/coursework%201.2%20telescope.ipynb|1.2 模拟望远镜法带电粒子鉴别]]
+   *   作业1.1和1.2中能量损失的计算方法 [E-loss计算方法](https://nbviewer.jupyter.org/github/pkunucexp/experimental-methods/blob/master/chapt1/elosscalc/eloss%20calculation.ipynb)
+  * [1.1 计算Bragg curve](https://nbviewer.jupyter.org/github/pkunucexp/experimental-methods/blob/master/chapt1/coursework1.1/coursework%201.1%20bragg%20curve.ipynb)
+  * [1.2 模拟望远镜法带电粒子鉴别](https://nbviewer.jupyter.org/github/pkunucexp/experimental-methods/blob/master/chapt1/coursework1.2/coursework%201.2%20telescope.ipynb)
  * 第二章
-   * [[https://nbviewer.jupyter.org/github/pkuNucExp/experimental-methods/blob/master/chapt2/centerlimit.ipynb|中心极限定理]]
+   * [中心极限定理](https://nbviewer.jupyter.org/github/pkuNucExp/experimental-methods/blob/master/chapt2/centerlimit.ipynb)
 ----
 ==  Lecture Notes  ==
  * [[attachment:Overview.pdf]] 
