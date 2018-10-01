@@ -33,7 +33,21 @@
    * [中心极限定理](https://nbviewer.jupyter.org/github/pkuNucExp/experimental-methods/blob/master/chapt2/centerlimit.ipynb)
 ----
 ##  Lecture Notes
-  * [望远镜法带电粒子鉴别](https://nbviewer.jupyter.org/github/pkunucexp/experimental-methods/blob/master/chapt1/telescope/telescope%20PID.ipynb)
-  * [随机事件事件间隔分布](https://nbviewer.jupyter.org/github/PkuNucExp/experimental-methods/blob/master/chapt2/ramdom%20timings.ipynb)
-  * [各种几率分布与中心极限定理](https://nbviewer.jupyter.org/github/PkuNucExp/experimental-methods/blob/master/chapt2/centerlimit.ipynb)
+  * [Overview](http://222.29.111.2:8888/data/Overview.pdf)
+  * [chapt0 Introduction](http://222.29.111.2:8888/data/chapt0%20Introduction.pdf)
+  * [chapt1 Interaction of Radiation with Matter](http://222.29.111.2:8888/data/chapt1%20Interaction%20of%20Radiation%20with%20Matter.pdf)
+    * [望远镜法带电粒子鉴别](https://nbviewer.jupyter.org/github/pkunucexp/experimental-methods/blob/master/chapt1/telescope/telescope%20PID.ipynb)
+    * Reference
+      * [HIRA telescope](http://222.29.111.2:8888/data/HIRA%20telescope.pdf)
+        * [LASSA telescope](http://222.29.111.2:8888/data/LASSA%20telescope.pdf)
+      * [DALI array](http://222.29.111.2:8888/data/Extz2t-DALI%20array.pdf)
+      * [PhysRevC.65.044006_Detection of neutron clusters](http://222.29.111.2:8888/data/PhysRevC.65.044006_Detection%20of%20neutron%20clusters.pdf)
+        * [On the possible detection of 4n events in the breakup of 14Be](http://222.29.111.2:8888/data/On%20the%20possible%20detection%20of%204n%20events%20in%20the%20breakup%20of%2014Be.pdf)
+      * [PhysRevLett.116.052501](http://222.29.111.2:8888/data/PhysRevLett.116.052501.pdf)
+  * [chap.2 Statistics and the Treatment of Experimental Data](http://222.29.111.2:8888/data/chap.2%20Statistics%20and%20the%20Treatment%20of%20Experimental%20Data.pdf)
+    * [随机事件事件间隔分布](https://nbviewer.jupyter.org/github/PkuNucExp/experimental-methods/blob/master/chapt2/ramdom%20timings.ipynb)
+    * [各种几率分布与中心极限定理](https://nbviewer.jupyter.org/github/PkuNucExp/experimental-methods/blob/master/chapt2/centerlimit.ipynb)
+    * Reference
+        * [Waiting-Line Models](http://222.29.111.2:8888/data/Waiting-Line%20Models.pdf) applications of distribution of time intervals.
+  * [chap.3 General characteristics of detectors](http://222.29.111.2:8888/data/chap.3%20General%20characteristics%20of%20detectors.pdf)
 
