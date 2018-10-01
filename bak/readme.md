@@ -49,7 +49,7 @@
  * [Overview.pdf](Overview.pdf)
  * [chapt0 Introduction.pdf](chapt0%20Introduction.pdf) 
  * [chapt1 Interaction of Radiation with Matter.pdf]() last updated at 2 pm on Sept. 29
-  * [望远镜法带电粒子鉴别](https://nbviewer.jupyter.org/github/pkunucexp/experimental-methods/blob/master/chapt1/telescope/telescope%20PID.ipynb|)
+  * [望远镜法带电粒子鉴别](https://nbviewer.jupyter.org/github/pkunucexp/experimental-methods/blob/master/chapt1/telescope/telescope%20PID.ipynb)
   * Reference
    * [HIRA telescope.pdf]()
     * [LASSA telescope.pdf]()
