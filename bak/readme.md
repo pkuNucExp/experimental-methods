@@ -83,22 +83,42 @@
     - 论文提交时间：12月14日(周五晚10：00前)，发到助教邮箱。
     - 报告时间：12月19日(周三)，12月21日(周五)，上课时间
 ----
-##  Lecture Notes
-  * [Overview](http://222.29.111.2:8888/data/Overview.pdf)
-  * [chapt0 Introduction](http://222.29.111.2:8888/data/chapt0%20Introduction.pdf)
-  * [chapt1 Interaction of Radiation with Matter](http://222.29.111.2:8888/data/chapt1%20Interaction%20of%20Radiation%20with%20Matter.pdf)
-    * [望远镜法带电粒子鉴别](https://nbviewer.jupyter.org/github/pkunucexp/experimental-methods/blob/master/chapt1/telescope/telescope%20PID.ipynb)
-    * Reference
-      * [HIRA telescope](http://222.29.111.2:8888/data/HIRA%20telescope.pdf)
-        * [LASSA telescope](http://222.29.111.2:8888/data/LASSA%20telescope.pdf)
-      * [DALI array](http://222.29.111.2:8888/data/Extz2t-DALI%20array.pdf)
-      * [PhysRevC.65.044006_Detection of neutron clusters](http://222.29.111.2:8888/data/PhysRevC.65.044006_Detection%20of%20neutron%20clusters.pdf)
-        * [On the possible detection of 4n events in the breakup of 14Be](http://222.29.111.2:8888/data/On%20the%20possible%20detection%20of%204n%20events%20in%20the%20breakup%20of%2014Be.pdf)
-      * [PhysRevLett.116.052501](http://222.29.111.2:8888/data/PhysRevLett.116.052501.pdf)
-  * [chap.2 Statistics and the Treatment of Experimental Data](http://222.29.111.2:8888/data/chap.2%20Statistics%20and%20the%20Treatment%20of%20Experimental%20Data.pdf)
-    * [随机事件事件间隔分布](https://nbviewer.jupyter.org/github/PkuNucExp/experimental-methods/blob/master/chapt2/ramdom%20timings.ipynb)
-    * [各种几率分布与中心极限定理](https://nbviewer.jupyter.org/github/PkuNucExp/experimental-methods/blob/master/chapt2/centerlimit.ipynb)
-    * Reference
-        * [Waiting-Line Models](http://222.29.111.2:8888/data/Waiting-Line%20Models.pdf) applications of distribution of time intervals.
-  * [chap.3 General characteristics of detectors](http://222.29.111.2:8888/data/chap.3%20General%20characteristics%20of%20detectors.pdf)
+##  Lecture Notes -- PKU
+- [Overview-a.pdf]()
+- [chapt0 Introduction.pdf]()
+- [chapt1 Interaction of Radiation with Matter.pdf]() last updated at 2 pm on Sept. 29
+    - [望远镜法带电粒子鉴别](https://nbviewer.jupyter.org/github/pkunucexp/experimental-methods/blob/master/chapt1/telescope/telescope%20PID.ipynb)
+    - Reference
+        - [HIRA telescope.pdf]()
+            - [LASSA telescope.pdf]()
+        - [DALI array.pdf]()
+        - [PhysRevC.65.044006_Detection of neutron clusters.pdf]()
+            - [On the possible detection of 4n events in the breakup of 14Be.pdf]()
+        - [PhysRevLett.116.052501.pdf]()
+- [chap.2 Statistics and the Treatment of Experimental Data.pdf]()
+    - [Error for Histograms.pdf]() https://www.physi.uni-heidelberg.de/~menzemer/Stat0708/statistik_vorlesung_4b.pdf
+    - [随机事件事件间隔分布](https://nbviewer.jupyter.org/github/PkuNucExp/experimental-methods/blob/master/chapt2/ramdom%20timings.ipynb)
+    - [各种几率分布与中心极限定理](https://nbviewer.jupyter.org/github/PkuNucExp/experimental-methods/blob/master/chapt2/centerlimit.ipynb)
+    - Reference
+        - [Waiting-Line Models.pdf]() applications of distribution of time intervals.
+        - [JPSJ103201_Superheanvy elements Z=113.pdf]()
+        - [Nature_11116_Superallowed Gamow-Teller decay.pdf]()
+        - [NPA709.103.16C halo.pdf]() - example of estimating systematic error of background.
+        - [The Maximum Likelihood Estimation.pdf]()
+- [chap.3 General characteristics of detectors.pdf]() last updated at 8 am on Oct. 17
+    - [时间常数与输出信号形状](https://nbviewer.jupyter.org/github/pkuNucexp/experimental-methods/blob/master/chapt3/time%20constant%20RC.ipynb)
+    - [信号上升时间与时间分辨](https://nbviewer.jupyter.org/github/pkuNucexp/experimental-methods/blob/master/chapt3/time%20response1.ipynb)
+- [chap.4 Ionization detector.pdf]() last updated at 11 pm on Oct. 25
+    - References
+        - [Development of Parallel Plate Avalanche Counter PPAC for BigRIPS fragment separator.pdf]()
+        - [LPMWPC.pdf]()
+- [chap.5 Scintillation Detector.pdf]() last updated at 4 pm on Dec. 2
+    - [PMT basics and applications_CHS.pdf] Hamamatsu
+- [chap.6 Semiconductor Detectors.pdf]() last updated at 7 pm on Nov. 18
+- [chap.7 Electronics for Pulse Processing.pdf]() last updated at 1 pm on Dec. 7
+- [chap.8 Data Acquisition Systems.pdf]() last updated at 9 am on Dec. 13
+- [chap.9. Digital Pulse Processing in Nuclear physics.pdf]() last updated at 9 pm on Dec. 15
 
+---
+## Lecture Notes - UCAS
+- [Overview-ucas.pdf]()
