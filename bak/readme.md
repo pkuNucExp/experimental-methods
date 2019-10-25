@@ -7,7 +7,12 @@
 
 ## 通知
  * 请按照下面链接提前学习ROOT相关知识，ROOT内容将在第一章结束后开始。
-
+## ROOT 安装
+ * 安装与操作系统版本对应的virtual box虚拟机
+    - 访问 [linux+ROOT virtual box镜像](https://pkuenp.quickconnect.cn/d/s/509132606843953153/gnOF_Y4_Q13MvT-ajMjsqxGZf9TPOdjf-DLtAuHr2EAc_)，下载镜像文件，密码为dataana，下载后双击导入virtualbox虚拟机即可
+    - [Geant4+ROOT virtual Machine](http://geant4.in2p3.fr/spip.php?rubrique8&lang=en) 可选镜像from IN2P3，推荐！
+ * 操作系统为linux，按照root.cern.ch网页的安装方法安装即可。
+ 
 ## ROOT Lecture
 
  * [ROOT](http://root.cern.ch)
@@ -20,15 +25,23 @@
     
 ----
 ## Coursework 
- * 作业要求
-  1. 直接抄袭他人代码者记零分。
-  2. 提交可运行代码，分析过程与结果。
-  3. 经助教批改后，根据批改意见进行修改，可多次提交。成绩以最后一次提交结果评判。
- * 第一章
+* 为满足不同方向的需求，提供两套作业。
+    - 作业a.以模拟计算或数据处理为主，实验方向必选
+    - 作业b.以计算题或推导题为主，因作业难度和完成作业时间不同，总评分比作业a 少5分。
+### 作业
+* 作业a要求
+    - 推荐用ROOT(c++), 但也可用其他编程语言或Excel等工具.
+    - 直接抄袭他人代码者记零分。
+    - 提交可运行代码，分析过程与结果。
+    - 经助教批改后，根据批改意见进行修改，可多次提交。成绩以最后一次提交结果评判。
+    - 提交日期原则上从发布之日，两周内。可根据进度延长。
+  
+* 第一章
   * 做作业前先学习下面链接中的E-loss计算方法
-   *   作业1.1和1.2中能量损失的计算方法 [E-loss计算方法](https://nbviewer.jupyter.org/github/pkunucexp/experimental-methods/blob/master/chapt1/elosscalc/eloss%20calculation.ipynb)
+     - 作业1.1和1.2中能量损失的计算方法 [E-loss计算方法](https://nbviewer.jupyter.org/github/pkunucexp/experimental-methods/blob/master/chapt1/elosscalc/eloss%20calculation.ipynb)
   * [1.1 计算Bragg curve](https://nbviewer.jupyter.org/github/pkunucexp/experimental-methods/blob/master/chapt1/coursework1.1/coursework%201.1%20bragg%20curve.ipynb)
-  * [1.2 模拟望远镜法带电粒子鉴别](https://nbviewer.jupyter.org/github/pkunucexp/experimental-methods/blob/master/chapt1/coursework1.2/coursework%201.2%20telescope.ipynb)
+  * [1.2 模拟望远镜法带电粒子鉴别](https://nbviewer.jupyter.org/github/pkunucexp/experimental-methods/blob/master/chapt1/coursework1.2/coursework%201.2%20telescope.ipynb)  
+     - 作业要求中实验数据见 
  * 第二章
    * [中心极限定理](https://nbviewer.jupyter.org/github/pkuNucExp/experimental-methods/blob/master/chapt2/centerlimit.ipynb)
 ----
