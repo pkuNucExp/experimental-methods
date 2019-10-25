@@ -46,7 +46,7 @@
    * 2.1 参考[中心极限定理](https://nbviewer.jupyter.org/github/pkuNucExp/experimental-methods/blob/master/chapt2/centerlimit.ipynb)的做法，用指数或者朗道分布验证中心极限定理。
  * 第三章
    * 3.1-3.3 [gamma 探测器刻度作业要求及说明](https://nbviewer.jupyter.org/github/pkunucexp/experimental-methods/blob/master/chapt3/gammacal/coursework3.1/coursework%203.1%20gamma%20calibration.ipynb)
-     * 数据文件[gamma.root]()已更新！
+     * 数据文件[gamma.root](gamma.root)已更新！
 ----
 ##  Lecture Notes
   * [Overview](http://222.29.111.2:8888/data/Overview.pdf)
