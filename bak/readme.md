@@ -47,6 +47,29 @@
  * 第三章
    * 3.1-3.3 [gamma 探测器刻度作业要求及说明](https://nbviewer.jupyter.org/github/pkunucexp/experimental-methods/blob/master/chapt3/gammacal/coursework3.1/coursework%203.1%20gamma%20calibration.ipynb)
      * 数据文件[gamma.root](gamma.root)已更新！
+     * 作业涉及方法原理参见[HpGe gamma 探测器刻度方法](https://nbviewer.jupyter.org/github/pkuNucExp/experimental-methods/blob/master/chapt3/gammacal/coursework3.1/3.1%20gamma%20calibration.ipynb)
+     * 作业参考 [How to](https://nbviewer.jupyter.org/github/pkuNucexp/experimental-methods/blob/master/chapt3/gammacal/coursework3.1/3.1%20how%20to.ipynb)
+        - 参考下面链接，学习如何用Residual plot来验证拟合结果是否合理？3.1的分析中加入Residual plot的分析。
+        - [Residuals vs. Fits Plot](https://onlinecourses.science.psu.edu/stat501/node/277/)
+            - [How can I tell if a model fits my data?](https://www.itl.nist.gov/div898/handbook/pmd/section4/pmd44.htm#resdef)
+        - [Introduction to Optimization and Curve Fitting.mp4]() youtube video
+        - [Simple Linear Regression_ Checking Assumptions with Residual Plots.mp4]() youtube video
+  * 拓展作业：   
+    - 现代大型核物理和粒子实验大都使用ROOT的tree结构来存储探测器的事件，基于tree的事件关联分析是数据处理的核心内容。通过完成下列作业，可掌握tree的基本用法。
+    - 作业要求：
+        - 将作业1.2的各探测器数据存到tree结构，按照下面链接中的数据分析示例，学习tree分析的基本用法。
+        - 作业要求及参考参见使用tree储存“望远镜法”数据
+### 选做作业
+* 作业要求
+    - 在相应章节内容讲授结束后，一周内提交。按完成度和提交时间评分。
+* 粒子与物质相互作用
+  - ![](chapt1.png)
+* 统计
+  - ![](chapt2.png)
+* 气体探测器
+  - ![](chapt3.png)
+* 闪烁体探测器
+  - ![](chapt4.png)
 ----
 ##  Lecture Notes
   * [Overview](http://222.29.111.2:8888/data/Overview.pdf)
