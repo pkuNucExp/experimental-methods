@@ -41,9 +41,12 @@
      - 作业1.1和1.2中能量损失的计算方法 [E-loss计算方法](https://nbviewer.jupyter.org/github/pkunucexp/experimental-methods/blob/master/chapt1/elosscalc/eloss%20calculation.ipynb)
   * [1.1 计算Bragg curve](https://nbviewer.jupyter.org/github/pkunucexp/experimental-methods/blob/master/chapt1/coursework1.1/coursework%201.1%20bragg%20curve.ipynb)
   * [1.2 模拟望远镜法带电粒子鉴别](https://nbviewer.jupyter.org/github/pkunucexp/experimental-methods/blob/master/chapt1/coursework1.2/coursework%201.2%20telescope.ipynb)  
-     - 作业要求中实验数据见 
+     - 作业要求中实验数据见 [望远镜法带电粒子鉴别](https://nbviewer.jupyter.org/github/pkunucexp/experimental-methods/blob/master/chapt1/telescope/telescope%20PID.ipynb)
  * 第二章
-   * [中心极限定理](https://nbviewer.jupyter.org/github/pkuNucExp/experimental-methods/blob/master/chapt2/centerlimit.ipynb)
+   * 2.1 参考[中心极限定理](https://nbviewer.jupyter.org/github/pkuNucExp/experimental-methods/blob/master/chapt2/centerlimit.ipynb)的做法，用指数或者朗道分布验证中心极限定理。
+ * 第三章
+   * 3.1-3.3 [gamma 探测器刻度作业要求及说明](https://nbviewer.jupyter.org/github/pkunucexp/experimental-methods/blob/master/chapt3/gammacal/coursework3.1/coursework%203.1%20gamma%20calibration.ipynb)
+     * 数据文件[gamma.root]()已更新！
 ----
 ##  Lecture Notes
   * [Overview](http://222.29.111.2:8888/data/Overview.pdf)
