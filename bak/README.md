@@ -106,7 +106,7 @@
         - [NPA709.103.16C halo.pdf]() - example of estimating systematic error of background.
         - [The Maximum Likelihood Estimation.pdf]()
 - [chap.3 General characteristics of detectors.pdf]() last updated at 8 am on Oct. 17
-    - [时间常数与输出信号形状](https://nbviewer.jupyter.org/github/pkuNucexp/experimental-methods/blob/master/chapt3/time%20constant%20RC.ipynb)
+    - [探测器电流与 RC 电路的输出脉冲](https://zhihuanli.github.io/Experimental-Method-in-Nuclear-Physics/chapt3/time_constant_RC.html)
     - [信号上升时间与时间分辨](https://nbviewer.jupyter.org/github/pkuNucexp/experimental-methods/blob/master/chapt3/time%20response1.ipynb)
 - [chap.4 Ionization detector.pdf]() last updated at 11 pm on Oct. 25
     - References
